@@ -1,0 +1,6 @@
+outputs/**
+debug/
+__pycache__/
+*/__pycache__/
+debug*.py
+checkpoint*
